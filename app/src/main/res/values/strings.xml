@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CompanyAssignment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="showing_image_from_server_side">showing image from server side.</string>
+    <string name="empty_list">no Data found</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="rajesh_yadav">Rajesh yadav</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="give_it_another_try">Give it another try</string>
+    <string name="reload">Reload</string>
+    <string name="loading">Loading</string>
+    <string name="language">Language: %s</string>
+    <string name="search_hint">GitHub Repository</string>
+    <string name="no_results">No results 😓</string>
+    <string name="unknown">\?</string>
+    <string name="retry">Retry</string>
+</resources>
